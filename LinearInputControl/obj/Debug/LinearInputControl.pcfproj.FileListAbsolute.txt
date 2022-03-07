@@ -1,0 +1,3 @@
+C:/Users/kartikka/Documents/GitHub/Labs/Vscode/VSCodeLab/LinearInputControl/obj/Debug/LinearInputControl.pcfproj.AssemblyReference.cache
+C:/Users/kartikka/Documents/GitHub/Labs/Vscode/VSCodeLab/LinearInputControl/obj/Debug/LinearInputControl.pcfproj.SuggestedBindingRedirects.cache
+C:/Users/kartikka/Documents/GitHub/Labs/Vscode/VSCodeLab/LinearInputControl/obj/Debug/LinearInputControl.pcfproj.CoreCompileInputs.cache

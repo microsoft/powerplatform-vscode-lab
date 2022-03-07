@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Connector xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <connectorid>237bb2c4-f777-47d3-ad5e-4844e434c0d3</connectorid>
+  <description>A sample connector for the Azure Key Vault service.  This connector is built for the Azure Key Vault REST API.  You can see the details of the API here: https://docs.microsoft.com/rest/api/keyvault/.</description>
+  <displayname>AzureKeyVault</displayname>
+  <iconbrandcolor>#007ee5</iconbrandcolor>
+  <name>collab_azurekeyvault</name>
+  <connectortype>1</connectortype>
+  <openapidefinition>/Connector/collab_azurekeyvault_openapidefinition.json</openapidefinition>
+  <connectionparameters>/Connector/collab_azurekeyvault_connectionparameters.json</connectionparameters>
+  <policytemplateinstances>/Connector/collab_azurekeyvault_policytemplateinstances.json</policytemplateinstances>
+  <iconblob>/Connector/collab_azurekeyvault_iconblob.Png</iconblob>
+</Connector>
