@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)/microsoft.powerapps.msbuild.pcf/1.12.2/build/Microsoft.PowerApps.MSBuild.Pcf.targets" Condition="Exists('$(NuGetPackageRoot)/microsoft.powerapps.msbuild.pcf/1.12.2/build/Microsoft.PowerApps.MSBuild.Pcf.targets')" />
+    <Import Project="$(NuGetPackageRoot)/microsoft.netframework.referenceassemblies.net462/1.0.0/build/Microsoft.NETFramework.ReferenceAssemblies.net462.targets" Condition="Exists('$(NuGetPackageRoot)/microsoft.netframework.referenceassemblies.net462/1.0.0/build/Microsoft.NETFramework.ReferenceAssemblies.net462.targets')" />
+  </ImportGroup>
+</Project>

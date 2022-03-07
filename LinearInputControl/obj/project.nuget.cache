@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "XDw3L+5p4cbktz7I+/DjqLA7VU46lppVwtShzOSEDgFlVratOLPQqMyrqv8pE0FjWclUsy/wLVvDl1DIx6/w7w==",
+  "success": true,
+  "projectFilePath": "/workspaces/VSCodeLab/LinearInputControl/LinearInputControl.pcfproj",
+  "expectedPackageFiles": [
+    "/var/nuget/microsoft.netframework.referenceassemblies/1.0.0/microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "/var/nuget/microsoft.netframework.referenceassemblies.net462/1.0.0/microsoft.netframework.referenceassemblies.net462.1.0.0.nupkg.sha512",
+    "/var/nuget/microsoft.powerapps.msbuild.pcf/1.12.2/microsoft.powerapps.msbuild.pcf.1.12.2.nupkg.sha512"
+  ],
+  "logs": []
+}
