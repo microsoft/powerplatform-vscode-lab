@@ -10,21 +10,21 @@ This lab works with GitHub CodeSpaces, Windows Services for Linux, macOS, and Mi
 
 # Lab Prerequisites
 If you want to do this lab using GitHub CodeSpaces:
-  •	Have a GitHub Alias 
-  •	Create your own GitHub repository
-  •	Download the samples solution and the PCF control from the lab GitHub repository
-  •	Access to CodeSpaces
-  •	Access to a Power platform environment (new environment is preferred)
-    o	The type of environment does not matter ( It can be Trial, Time bound Trial,  Sandbox, and Production)
-    o	Import the Collaboration.zip file into your repository 
+* Have a GitHub Alias 
+* Create your own GitHub repository
+* Download the samples solution and the PCF control from the lab GitHub repository
+* Access to CodeSpaces
+* Access to a Power platform environment (new environment is preferred)
+    - The type of environment does not matter ( It can be Trial, Time bound Trial,  Sandbox, and Production)
+    - Import the Collaboration.zip file into your repository 
 
 If you want to do this lab without GitHub CodeSpaces
-  •	Have a GitHub Alias 
-  •	Create your own GitHub repository
-  •	Access to a Power platform environment (new environment is preferred)
-    o	The type of environment does not matter (It can be Trial, Time bound Trial, Sandbox, and Production)
-    o	Import the Collaboration.zip file into your repository
-  •	Have npm and node installed on your machine
+ * Have a GitHub Alias 
+ * Create your own GitHub repository
+ * Access to a Power platform environment (new environment is preferred)
+     - The type of environment does not matter (It can be Trial, Time bound Trial, Sandbox, and Production)
+     - Import the Collaboration.zip file into your repository
+ * Have npm and node installed on your machine
 
 
 ## Trademarks
