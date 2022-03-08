@@ -15,7 +15,7 @@ If you want to do this lab using GitHub CodeSpaces:
 * Download the samples solution and the PCF control from the lab GitHub repository
 * Access to CodeSpaces
 * Access to a Power platform environment (new environment is preferred)
-    - The type of environment does not matter ( It can be Trial, Time bound Trial,  Sandbox, and Production)
+    - The type of environment does not matter (It can be Trial, Time bound Trial,  Sandbox, and Production)
     - Import the Collaboration.zip file into your repository 
 
 If you want to do this lab without GitHub CodeSpaces
