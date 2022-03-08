@@ -1,28 +1,31 @@
-# Project
+# Power Platform Tools for Visual Studio Code  Lab
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+This repository contains the lab instructions and content on how to experience the Power Platform Tools for Visual Studio Code 
+In this lab, you will learn the folliwing
+ - The various ways to install Power Platform Tools into Visual Studio Code
+ - How to authenticate to Power Platform Environments
+ - Work with Solutions and PCF controls with Visual Studio Code and then import them into Power Platform
 
-As the maintainer of this project, please make a few updates:
+This lab works with GitHub CodeSpaces, Windows Services for Linux, macOS, and Microsoft Windows 10/11
 
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+# Lab Prerequisites
+If you want to do this lab using GitHub CodeSpaces:
+  •	Have a GitHub Alias 
+  •	Create your own GitHub repository
+  •	Download the samples solution and the PCF control from the lab GitHub repository
+  •	Access to CodeSpaces
+  •	Access to a Power platform environment (new environment is preferred)
+    o	The type of environment does not matter ( It can be Trial, Time bound Trial,  Sandbox, and Production)
+    o	Import the Collaboration.zip file into your repository 
 
-## Contributing
+If you want to do this lab without GitHub CodeSpaces
+  •	Have a GitHub Alias 
+  •	Create your own GitHub repository
+  •	Access to a Power platform environment (new environment is preferred)
+    o	The type of environment does not matter (It can be Trial, Time bound Trial, Sandbox, and Production)
+    o	Import the Collaboration.zip file into your repository
+  •	Have npm and node installed on your machine
 
-This project welcomes contributions and suggestions.  Most contributions require you to agree to a
-Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
-the rights to use your contribution. For details, visit https://cla.opensource.microsoft.com.
-
-When you submit a pull request, a CLA bot will automatically determine whether you need to provide
-a CLA and decorate the PR appropriately (e.g., status check, comment). Simply follow the instructions
-provided by the bot. You will only need to do this once across all repos using our CLA.
-
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
-contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
 
 ## Trademarks
 
