@@ -1,7 +1,7 @@
 # Power Platform Tools for Visual Studio Code  Lab
 
 This repository contains the lab instructions and content on how to experience the Power Platform Tools for Visual Studio Code.
-In this lab, you will learn the following
+In this lab, you will learn the following:
  - The various ways to install Power Platform Tools into Visual Studio Code
  - How to authenticate to Power Platform Environments
  - Work with Solutions and PCF controls with Visual Studio Code and then import them into Power Platform
