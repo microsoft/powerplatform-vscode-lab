@@ -6,13 +6,15 @@ In this lab, you will learn the following:
  - How to authenticate to Power Platform Environments
  - Work with Solutions and PCF controls with Visual Studio Code and then import them into Power Platform
 
-This lab works with GitHub CodeSpaces, Windows Services for Linux, macOS, and Microsoft Windows 10/11
+This lab works with:
+**GitHub CodeSpaces, Windows Services for Linux, macOS, and Microsoft Windows 10/11**
+**Nodejs LTS 16.x  for the PCF control part of this lab **
 
 # Lab Prerequisites
 If you want to do this lab using GitHub CodeSpaces:
 * Have a GitHub Alias 
 * Create your own GitHub repository
-* Download the samples solution and the PCF control from the lab GitHub repository
+* Download the samples solution and the PCF control from the lab GitHub repository or you clone the repository
 * Access to CodeSpaces
 * Access to a Power platform environment (new environment is preferred)
     - The type of environment does not matter (It can be Trial, Time bound Trial,  Sandbox, and Production)
