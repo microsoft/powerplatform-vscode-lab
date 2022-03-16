@@ -7,3 +7,4 @@ bin/
 
 # PCF Control build artifacts
 out/
+generated/
