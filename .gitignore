@@ -1,0 +1,9 @@
+# nodejs packages
+node_modules/
+
+# dotnet / MSBuild artifacts
+obj/
+bin/
+
+# PCF Control build artifacts
+out/
