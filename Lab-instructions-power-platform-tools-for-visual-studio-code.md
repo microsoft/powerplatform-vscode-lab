@@ -1,4 +1,4 @@
-﻿# Power Platform Tools for Visual Studio Code LAB
+﻿# Power Platform Tools for Visual Studio Code Lab
 
 ## Lab prerequisites
 
