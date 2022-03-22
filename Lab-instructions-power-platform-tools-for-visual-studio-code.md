@@ -100,7 +100,7 @@ and you will see the following icon show-up on the activity panel.
 
 ![Shape Description automatically generated with medium confidence](media/image11.png)
 
-## Authenticatng to power Platform and listing environments and solutions
+## Authenticating to power Platform and listing environments and solutions
 
 When you click on the Power Platform icon on the **Activity bar** within the side bar, you will see two panels. These panels are called:
 
