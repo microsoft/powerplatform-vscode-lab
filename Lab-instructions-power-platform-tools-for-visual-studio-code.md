@@ -1,4 +1,12 @@
 ﻿# Power Platform Tools for Visual Studio Code Lab
+## What is expected after the completion of this Lab
+- You will learn how to install the Power Platform Tools for Visual Studio Code
+- You will learn how to authenticate to Power Platform from within Visual Studio Code
+- You will be able to build an existing PCF control within Visual Studio Code
+- You will be able add the PCF control in a solution using Power Platform Tool for Visual Studio Code
+- Build the solution provided by the extension
+- Import the solution into your Power Platform environment from within Visual Studio Code
+
 
 ## Lab prerequisites
 
